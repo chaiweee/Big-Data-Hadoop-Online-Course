@@ -1,4 +1,4 @@
-### Big Data in Real World
+## Big Data in Real World
 
 **Clinical Analytics**  
 
@@ -62,20 +62,21 @@ S3-json is a JavaScript object notation that is used to structure query data.
 Based on all the above the decision is made and the video ranking is given to user.  
 
 
-### Why do we need Big Data Analytics?  
+
+## Why do we need Big Data Analytics?  
 	1. Making smarter and more efficient organizations  
 	2. Optimize business operations by analyzing customer behaviour  
 	3. Cost reduction  
 	4. Next Generation Products - smart yoga mat??  
 
-**Stages in Big Data Analytics**  
+### Stages in Big Data Analytics  
 	1. Identifying the problem  
 	2. Designing data requirement  
 	3. Preprocessing data  
 	4. Performing analytics over data  
 	5. Data visualization  
 
-
+</br>
 
 |   | Type of Big data Analytics |	Description |
 | - | -------------------------- | ------------ |
