@@ -61,13 +61,13 @@ Aegisthus is a platform built by Netflix engineers to work on MapReduce. It help
 S3-json is a JavaScript object notation that is used to structure query data.  
 Based on all the above the decision is made and the video ranking is given to user.  
 
-
+</br>
 
 ## Why do we need Big Data Analytics?  
-	1. Making smarter and more efficient organizations  
-	2. Optimize business operations by analyzing customer behaviour  
-	3. Cost reduction  
-	4. Next Generation Products - smart yoga mat??  
+- Making smarter and more efficient organizations  
+- Optimize business operations by analyzing customer behaviour  
+- Cost reduction  
+- Next Generation Products - smart yoga mat??  
 
 ### Stages in Big Data Analytics  
 	1. Identifying the problem  
@@ -83,18 +83,19 @@ Based on all the above the decision is made and the video ranking is given to us
 |1	| Descriptive Analysis	     | <img width="300" src="https://user-images.githubusercontent.com/125619716/229698851-67baa545-547d-4d09-9f8e-1e1acfebce00.png">   Example: Netflix is using to find correlations between different movies the user is watching to improve their recommendation engine.  |
 |2	| Predictive Analysis	       | <img width="300" src="https://user-images.githubusercontent.com/125619716/229698887-e59c81a8-b400-4910-b61f-2e5688904eec.png"> |
 |3  | Prescriptive Analysis	     | <img width="300" src="https://user-images.githubusercontent.com/125619716/229698972-06ad4805-bb85-4357-b70d-d466c633b8d8.png">   This analysis uses optimization and simulation algorithms to advise on the possible outcomes and answer the question of we should we do.  It allows user to prescribe a few different possible actions and then guide them towards the solution. Involves ML, model, rules and so to advise action.  |
-|4  |	Diagnostic Analytics	     | <img width="300" src="https://user-images.githubusercontent.com/125619716/229699083-07cd0ebf-b636-4e84-bb74-b0e8961955f3.png"> |
+|4  |	Diagnostic Analytics	     | <img width="300" src="https://user-images.githubusercontent.com/125619716/229699083-07cd0ebf-b636-4e84-bb74-b0e8961955f3.png"> |  
 
+
+</br>  
+
+
+### Tools in Big Data Analytics  
 <img width="300" src="https://user-images.githubusercontent.com/125619716/229699370-6da396fd-ad37-4d0f-a48f-1254d4bb0e79.png">   
-
+ </br>  
 <img width="300" src="https://user-images.githubusercontent.com/125619716/229699410-330d1a6e-a16e-4243-885e-0bdacdce114b.png">
 Starbucks gather user information through point system.   
 
 </br>
 
 <img width="300" src="https://user-images.githubusercontent.com/125619716/229699433-8546fa9a-072b-42a3-9ec4-aadd5931a98a.png">  
-They observe the baskets of customer and will arrange the location of product with high similarity together.  
-
-
-</br>
-
+They observe the baskets of customer and will arrange the location of product with high similarity together. 
