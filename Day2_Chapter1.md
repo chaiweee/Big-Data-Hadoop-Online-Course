@@ -92,6 +92,8 @@ Based on all the above the decision is made and the video ranking is given to us
 ### Tools in Big Data Analytics  
 <img width="300" src="https://user-images.githubusercontent.com/125619716/229699370-6da396fd-ad37-4d0f-a48f-1254d4bb0e79.png">   
  </br>  
+ 
+### Use cases of Big Data Analytics  
 <img width="300" src="https://user-images.githubusercontent.com/125619716/229699410-330d1a6e-a16e-4243-885e-0bdacdce114b.png">
 Starbucks gather user information through point system.   
 
